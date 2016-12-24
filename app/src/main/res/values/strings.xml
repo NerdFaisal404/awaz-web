@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">আওয়াজ</string>
+    <string name="publisher_id"></string> 
+    <item type="integer" name="displaymode">1</item>
+    
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="stop">Stop</string>
+    <string name="noconnection">No internet connection was found</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="share">Share</string>
+    <string name="error">Error</string>        
+    <string name="about">About</string> 
+    <string name="home">Home</string> 
+    <string name="close">Close</string> 
+    <string name="download">Download</string> 
+    <string name="saved">Saved at: </string> 
+    <string name="sharetitle">Share this!</string> 
+    <string name="download_confirm">Are you sure you want to download this file?</string>
+    <string name="download_done">The file has been saved in the downloads folder, open it by tapping the file in your notifications</string>
+    <string name="exit_message">Thank you for using our app!</string> 
+    <string name="dialog_about"><![CDATA[ABOUT TEXT]]></string>     
+
+    <string name="share1">I came across </string> 
+    <!--  we will automatically website title here-->
+    <string name="share2"> using </string> 
+    <!--  we will automatically put your apps name and link here -->
+
+</resources>

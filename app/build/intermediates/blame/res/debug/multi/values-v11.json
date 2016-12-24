@@ -1,0 +1,96 @@
+[
+    {
+        "outputFile": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 555
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 555
+                    }
+                }
+            }
+        ]
+    }
+]

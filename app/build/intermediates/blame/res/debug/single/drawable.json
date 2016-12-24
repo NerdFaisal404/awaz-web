@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\puller.xml",
+        "source": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\src\\main\\res\\drawable\\puller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_icon.xml",
+        "source": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\src\\main\\res\\drawable\\actionbar_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_icon.xml",
+        "source": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\src\\main\\res\\drawable\\actionbar_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\puller.xml",
+        "source": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\src\\main\\res\\drawable\\puller.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myprogressbar.xml",
+        "source": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\src\\main\\res\\drawable\\myprogressbar.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myprogressbar.xml",
+        "source": "D:\\Backup\\Awaz_apk_info\\awaz-web\\app\\src\\main\\res\\drawable\\myprogressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Faisal Ahmed\\Desktop\\awaz-web\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_dark.xml"
+    }
+]
